@@ -44,6 +44,8 @@ twentyth,20th
 twentyfirst,21st
 twentysecond,22nd
 twentythrid,23rd
+twentythird,23rd
+
 
 # USPS Suffix Abbreviations
 # http://www.usps.com/ncsc/lookups/abbreviations.html#suffix
